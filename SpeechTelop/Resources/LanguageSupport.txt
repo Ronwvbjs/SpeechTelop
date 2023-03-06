@@ -1,0 +1,109 @@
+{
+  "language_data":[
+    {
+      "speech_translation_from_language": "ar",
+      "speech_translation_to_language": "ar",
+      "text_to_speech_locale": "ar-EG",
+      "voice_name": [
+        { "gender":"Female", "name":"ar-EG-Hoda" },
+      ],
+    },
+    {
+      "speech_translation_from_language": "zh-Hans",
+      "speech_translation_to_language": "zh-Hans",
+      "text_to_speech_locale": "zh-CN",
+      "voice_name": [
+        { "gender":"Female", "name":"zh-CN-HuihuiRUS" },
+        { "gender":"Female", "name":"zh-CN-Yaoyao-Apollo" },
+        { "gender":"Male", "name":"zh-CN-Kangkang-Apollo" },
+      ],
+    },
+    {
+      "speech_translation_from_language": "en",
+      "speech_translation_to_language": "en",
+      "text_to_speech_locale": "en-US",
+      "voice_name": [
+        { "gender":"Female", "name":"en-US-ZiraRUS" },
+        { "gender":"Female", "name":"en-US-JessaRUS" },
+        { "gender":"Female", "name":"en-US-Jessa24kRUS" },
+        { "gender":"Male", "name":"en-US-BenjaminRUS" },
+        { "gender":"Male", "name":"en-US-Guy24kRUS" },
+      ],
+    },
+    {
+      "speech_translation_from_language": "fr",
+      "speech_translation_to_language": "fr",
+      "text_to_speech_locale": "fr-FR",
+      "voice_name": [
+        { "gender":"Female", "name":"fr-FR-Julie-Apollo" },
+        { "gender":"Female", "name":"fr-FR-HortenseRUS" },
+        { "gender":"Male", "name":"fr-FR-Paul-Apollo" },
+      ],
+    },
+    {
+      "speech_translation_from_language": "de",
+      "speech_translation_to_language": "de",
+      "text_to_speech_locale": "de-DE",
+      "voice_name": [
+        { "gender":"Female", "name":"de-DE-Hedda" },
+        { "gender":"Female", "name":"de-DE-HeddaRUS" },
+        { "gender":"Male", "name":"de-DE-Stefan-Apollo" },
+      ],
+    },
+    {
+      "speech_translation_from_language": "it",
+      "speech_translation_to_language": "it",
+      "text_to_speech_locale": "it-IT",
+      "voice_name": [
+        { "gender":"Female", "name":"it-IT-LuciaRUS" },
+        { "gender":"Male", "name":"it-IT-Cosimo-Apollo" },
+      ],
+    },
+    {
+      "speech_translation_from_language": "ja-JP",
+      "speech_translation_to_language": "ja",
+      "text_to_speech_locale": "ja-JP",
+      "voice_name": [
+        { "gender":"Female", "name":"ja-JP-Ayumi-Apollo" },
+        { "gender":"Female", "name":"ja-JP-HarukaRUS" },
+        { "gender":"Male", "name":"ja-JP-Ichiro-Apollo" },
+      ],
+    },
+    {
+      "speech_translation_from_language": "ko",
+      "speech_translation_to_language": "ko",
+      "text_to_speech_locale": "ko-KR",
+      "voice_name": [
+        { "gender":"Female", "name":"ko-KR-HeamiRUS" },
+      ],
+    },
+    {
+      "speech_translation_from_language": "pt",
+      "speech_translation_to_language": "pt",
+      "text_to_speech_locale": "pt-PT",
+      "voice_name": [
+        { "gender":"Female", "name":"pt-PT-HeliaRUS" },
+      ],
+    },
+    {
+      "speech_translation_from_language": "ru",
+      "speech_translation_to_language": "ru",
+      "text_to_speech_locale": "en-US",
+      "voice_name": [
+        { "gender":"Female", "name":"ru-RU-Irina-Apollo" },
+        { "gender":"Female", "name":"ru-RU-EkaterinaRUS" },
+        { "gender":"Male", "name":"ru-RU-Pavel-Apollo" },
+      ],
+    },
+    {
+      "speech_translation_from_language": "es",
+      "speech_translation_to_language": "es",
+      "text_to_speech_locale": "es-ES",
+      "voice_name": [
+        { "gender":"Female", "name":"es-ES-Laura-Apollo" },
+        { "gender":"Female", "name":"es-ES-HelenaRUS" },
+        { "gender":"Male", "name":"es-ES-Pablo-Apollo" },
+      ],
+    },
+  ],
+}

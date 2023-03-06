@@ -1,0 +1,1 @@
+westus,westus2,eastus,eastus2,eastasia,japaneast,southeastasia,northeurope,westeurope
