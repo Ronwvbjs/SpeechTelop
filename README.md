@@ -3,7 +3,8 @@ Microsoft Speech を使用して音声を翻訳してテキストに変換し、
 作った日が結構前なので Speech SDK を使用していません。  
 <br />
 # 動作環境
-Windows 10 以降の 64bit 版でしか動作しません。
+Windows 10 以降の 64bit 版でしか動作しません。  
+.NET Framework 4.7.1 を使用  
 <br />
 # インストール方法
 特に無し  
