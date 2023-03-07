@@ -15,6 +15,7 @@ Windows 10 以降の 64bit 版でしか動作しません。
 <br />
 # 使用方法
 Microsoft Azure の音声サービスが必要です。  
+
 Hide-After-Seconds はこの指定された秒数後にファイルの中身をクリアします。  
 <br />
 # 免責
